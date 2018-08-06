@@ -97,9 +97,9 @@ export default function AboutMe() {
             send me a message on LinkedIn
           </a>
           . For anything else, please contact me{' '}
-          <a href="mailto:adriantoine@gmail.com">on my personal email</a> or{' '}
+          <a href="mailto:sonyquekss@gmail.com">on my personal email</a> or{' '}
           <a
-            href="https://twitter.com/adriantoine"
+            href="https://twitter.com/Sonyque"
             target="_blank"
             rel="noopener noreferrer"
           >
