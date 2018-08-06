@@ -32,6 +32,7 @@ module.exports = merge(base, {
   ],
 
   devServer: {
+    disableHostCheck: true,
     contentBase: path.join(root, 'public'),
     port: 9000,
   },
