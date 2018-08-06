@@ -18,7 +18,7 @@ export default function AboutMe() {
       <div class="AboutMe-content">
         <h2>Who am I?</h2>
         <p>
-          I am a front-end developer living in London (UK) with 7 years of
+          I am a full stack developer living in Kherson (Ukraine) with 7 years of
           experience using various tools and frameworks.
         </p>
         <p>
@@ -26,7 +26,7 @@ export default function AboutMe() {
           on my free time, trying out new frameworks, methods, tools, libraries
           and even languages sometimes. I am{' '}
           <a
-            href="https://github.com/adriantoine"
+            href="https://github.com/Sonyque"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -40,7 +40,7 @@ export default function AboutMe() {
           I have worked on several different projects, you can find more info
           about my commercial experience on{' '}
           <a
-            href="https://www.linkedin.com/in/adriantoine/en"
+            href="https://www.linkedin.com/in/eugene-moskvita"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -49,7 +49,7 @@ export default function AboutMe() {
           and about my personal projects and involvment in open source projects
           on{' '}
           <a
-            href="https://github.com/adriantoine"
+            href="https://github.com/Sonyque"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -90,7 +90,7 @@ export default function AboutMe() {
         <p>
           If you want to get in touch for a job, I prefer if you{' '}
           <a
-            href="https://www.linkedin.com/in/adriantoine/en"
+            href="https://www.linkedin.com/in/eugene-moskvita"
             target="_blank"
             rel="noopener noreferrer"
           >

@@ -13,15 +13,15 @@ export default function Home({onScrollToMore}) {
         <div class="Home-hero">
           <div class="Home-hero-title">
             <span class="u-purple">Hi!</span> My name is{' '}
-            <span class="u-blue">Adrien Antoine</span>.
+            <span class="u-blue">Eugene Moskvita</span>.
           </div>
           <div class="Home-hero-description">
-            I am a <strong class="u-green">front end developer</strong> with{' '}
+            I am a <strong class="u-green">full stack developer</strong> with{' '}
             <strong class="u-orange">7 years of experience</strong>
             .{' '}
             <a
               class="u-blue"
-              href="https://github.com/adriantoine"
+              href="https://github.com/Sonyque"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -43,14 +43,14 @@ export default function Home({onScrollToMore}) {
             />
             <a
               class="Home-socialLink Home-socialLink--github"
-              href="https://github.com/adriantoine"
+              href="https://github.com/Sonyque"
               target="_blank"
               rel="noopener noreferrer"
               dangerouslySetInnerHTML={{__html: GitHubLogo}}
             />
             <a
               class="Home-socialLink Home-socialLink--linkedin"
-              href="https://www.linkedin.com/in/adriantoine/en"
+              href="https://www.linkedin.com/in/eugene-moskvita"
               target="_blank"
               rel="noopener noreferrer"
               dangerouslySetInnerHTML={{__html: LinkInLogo}}

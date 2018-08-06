@@ -1,29 +1,26 @@
 {
-  "name": "adriantoine.com",
+  "name": "moskvita.com",
   "version": "1.0.0",
   "description": "Personal website",
   "main": "index.js",
   "scripts": {
-    "clean":
-      "rm -rf public/bundle* && rm -rf public/appcache && rm -rf public/sw-offline-google-analytics.prod.* && rm -rf public/sw.js && rm -rf public/style* && rm -f public/index.html",
-    "build":
-      "npm run clean && npm run copy-google-sw && webpack --config webpack/prod.config.js",
-    "copy-google-sw":
-      "cp node_modules/sw-offline-google-analytics/build/importScripts/sw-offline-google-analytics.prod.* public/",
+    "clean": "rm -rf public/bundle* && rm -rf public/appcache && rm -rf public/sw-offline-google-analytics.prod.* && rm -rf public/sw.js && rm -rf public/style* && rm -f public/index.html",
+    "build": "npm run clean && npm run copy-google-sw && webpack --config webpack/prod.config.js",
+    "copy-google-sw": "cp node_modules/sw-offline-google-analytics/build/importScripts/sw-offline-google-analytics.prod.* public/",
     "start": "webpack-dev-server --config webpack/dev.config.js",
     "lint": "eslint src"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:adriantoine/adriantoine.com.git"
+    "url": "git@github.com:Sonyque/personal_blog.git"
   },
   "engines": {
     "node": "8.x.x",
     "npm": "5.x.x"
   },
-  "author": "Adrien Antoine",
+  "author": "Eugene Moskvita",
   "license": "ISC",
-  "homepage": "https://github.com/adriantoine/adriantoine.com#readme",
+  "homepage": "https://github.com/Sonyque/personal_blog#readme",
   "dependencies": {
     "autoprefixer": "^7.1.4",
     "buble-loader": "^0.4.1",
