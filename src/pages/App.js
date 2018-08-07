@@ -17,7 +17,7 @@ export default class App extends Component {
   }
 
   render() {
-    document.title = 'Adrien Antoine, front-end developer';
+    document.title = 'Eugene Moskvita, full-stack developer';
 
     return (
       <div class="App" ref={c => (this.app = c)}>
