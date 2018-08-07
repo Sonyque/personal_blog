@@ -19,14 +19,7 @@ export default function Home({onScrollToMore}) {
             I am a <strong class="u-green">full stack developer</strong> with{' '}
             <strong class="u-orange">7 years of experience</strong>
             .{' '}
-            <a
-              class="u-blue"
-              href="https://github.com/Sonyque"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Active on Github
-            </a>{' '}
+            <strong class="u-blue" >Love solving problems</strong>{' '}
             and <strong class="u-purple">passionate about technologies</strong>
             , I also have{' '}
             <strong class="u-orange">commercial experience</strong> in

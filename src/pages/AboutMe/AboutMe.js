@@ -18,27 +18,20 @@ export default function AboutMe() {
       <div class="AboutMe-content">
         <h2>Who am I?</h2>
         <p>
-          I am a full stack developer living in Kherson (Ukraine) with 7 years of
-          experience using various tools and frameworks.
+          I am a full stack developer living in Kherson (Ukraine) with 7
+          years of commercial experience using various tools and frameworks.
         </p>
         <p>
-          I am passionate about web technologies and I love to experient things
-          on my free time, trying out new frameworks, methods, tools, libraries
-          and even languages sometimes. I am{' '}
-          <a
-            href="https://github.com/Sonyque"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            active on Github
-          </a>{' '}
-          and trying to contribute as much as I can as well as to maintain my
-          own repos.
+          I am passionate about web technologies and love a huge variety of
+          tools in this area. Enjoy dynamic environments and continuously learn
+          something new.
         </p>
         <h2>What do I do?</h2>
         <p>
-          I have worked on several different projects, you can find more info
-          about my commercial experience on{' '}
+          I have worked on many different projects, from small websites to large
+          scale platforms that speak for themselves, you can find more info
+          about my commercial experience
+          on{' '}
           <a
             href="https://www.linkedin.com/in/eugene-moskvita"
             target="_blank"
@@ -46,45 +39,36 @@ export default function AboutMe() {
           >
             my LinkedIn profile
           </a>{' '}
-          and about my personal projects and involvment in open source projects
-          on{' '}
-          <a
-            href="https://github.com/Sonyque"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            my Github profile
-          </a>
-          .
         </p>
         <h2>How do I do it?</h2>
         <p>
-          As a front-end developer, I am good at writing clean and structured
-          code, refactoring old code and setting up an architecture for a new
-          project. I am usually appreciated for my clean, organised and
-          well-documented code.
+          As a full-stack developer, I am good at writing clean and structured
+          code according to the tool standard, research/refactoring old code
+          setting up an architecture for the new projects.
+        </p>
+        <p>
+          I am appreciated for
+          my ability to share/get knowledge among developers, analyse problems
+          from the business point of view, work and interact with clients
+          independently.
         </p>
       </div>
       <div class="AboutMe-content">
-        <p>
-          And I also have experience on personal projects using these tools, and
-          I'm quite excited about them.
-        </p>
         <h2>What else should you know about me?</h2>
         <p>
-          A good thing to know about me is that I am French{' '}
-          {emoji('\uD83D\uDE0B')} so I obviously like cheese and wine. Then I
-          love travelling and{' '}
+          A good thing to know about me is that I am Kitesurfer {emoji('&#127940')} so I obviously
+          like wind and water. Then I love traveling and{' '}
           <a
-            href="https://www.flickr.com/people/adriantoine/"
+            href="https://www.instagram.com/sonyquex/"
             target="_blank"
             rel="noopener noreferrer"
           >
             taking photos
-          </a>
-          , I'm also a big fan of cinema and enjoy going out in London in
-          general {emoji('\uD83D\uDE0A')}
-          .
+          </a>.
+        </p>
+        <p>
+          I'm a family guy and father of two children, really proud of
+          them {emoji('\uD83D\uDE0A')}.
         </p>
         <h2>How to contact me?</h2>
         <p>
